@@ -1,42 +1,66 @@
-# Communication Psychology
+# The Science of Making Ideas Land
 
-*The science of making ideas land*
-
----
+*A psychology-grounded approach to presentation and communication*
 
 > "What's the difference between a vision and a hallucination? It becomes a vision when others can see it."
 
-This collection explores the psychology behind effective communication — not the showmanship, but the deeper question: **What are the conditions under which an audience becomes receptive to your message?**
+---
 
-## The Core Framework
+## The Storytelling Framework
 
-- **[The Storytelling Framework](00-storytelling-framework.md)** — A complete ABT-based presentation structure that puts the customer as hero and your company as mentor. Includes whiteboard diagram.
+**[The Storytelling Framework](00-storytelling-framework.md)** — The complete methodology: Setup → Conflict → Resolution, with techniques for openings, endings, and making complex ideas land.
 
-## Psychology Deep Dives
-
-| Post | Topic |
-|------|-------|
-| [Transportation](posts/01-transportation.md) | Narrative immersion and the "controlled hallucination" of consciousness |
-| [The Peak-End Rule](posts/02-peak-end-rule.md) | Why audiences remember peaks and endings — and what to do about it |
-| [Perfecting Imperfection](posts/03-perfecting-imperfection.md) | Pratfall Effect & Benign Violation Theory |
-| [Cognitive Patterns](posts/05-cognitive-patterns.md) | Pattern recognition, agency detection, proportionality bias |
-| [Cerebral Seeds](posts/06-cerebral-seeds.md) | Planting ideas in fertile ground — the power of context |
-| [Language and Memory](posts/11-language-and-memory.md) | Potemkin villages and Elizabeth Loftus — how words shape recall |
-| [Default-Mode and Social Insight](posts/12-default-mode.md) | The neuroscience of "shower thoughts" and audience empathy |
-
-## Presentation Craft
-
-| Post | Topic |
-|------|-------|
-| [Beyond Bullet Points](posts/07-beyond-bullet-points.md) | UX principles for slide design — cognitive load, contrast, attention |
-| [The Alphabet of Story](posts/08-alphabet-of-story.md) | Foundational storytelling elements (with MessageLabs origin story) |
-| [Writing Backwards](posts/09-writing-backwards.md) | The comedian's technique for technical presentations |
-| [May I Have Your Attention?](posts/10-may-i-have-your-attention.md) | What Tolstoy and "Where's Spot?" teach us about openings |
-| [Audience Profiling](posts/13-audience-profiling.md) | The Rosetta Stone of crafting messages that resonate |
-| [Congruence](posts/14-congruence.md) | The 1960 Kennedy-Nixon debate and nonverbal authenticity |
+![Storytelling Framework Whiteboard](images/storytelling-framework-whiteboard.jpg)
 
 ---
 
-*Developed by Mark Sunner, drawing on years of crafting product and service presentations. Built on Joseph Campbell's monomyth, Randy Olson's ABT framework, and research in narrative transportation and persuasion psychology.*
+## The Archive
 
-**14 pieces of psychology-grounded presentation content** — from Digital Ape Training archives.
+### 📚 Psychology Deep Dives
+
+These pieces explore the cognitive science behind effective communication:
+
+| Post | Topic |
+|------|-------|
+| [Transportation](posts/01-transportation.md) | How stories literally transport us neurologically |
+| [The Peak-End Rule](posts/02-peak-end-rule.md) | Why endings and emotional peaks matter most |
+| [Why Stories Matter](posts/17-why-stories-matter.md) | Narrative as the brain's default sense-making device |
+| [It's About Time](posts/16-its-about-time.md) | Time perception and the neuroscience of stress ⭐ *Personal origin story* |
+| [Primacy Theory](posts/15-primacy-theory.md) | The psychology of first impressions (with Eddie Izzard!) ⭐ |
+| [The Spotlight Effect](posts/22-spotlight-effect.md) | Managing the illusion that everyone is watching |
+| [The Neurochemistry of Presenting](posts/21-neurochemistry-of-presenting.md) | Dopamine, serotonin, cortisol, and testosterone |
+| [Cerebral Seeds](posts/06-cerebral-seeds.md) | Memory consolidation and idea uptake |
+| [Language and Memory](posts/11-language-and-memory.md) | Linguistic techniques that stick |
+| [The Default Mode](posts/12-default-mode.md) | The brain's wandering mind and how to engage it |
+
+### 🎯 Presentation Craft
+
+Practical techniques for structuring and delivering presentations:
+
+| Post | Topic |
+|------|-------|
+| [Controlling Nerves — Part 1](posts/18-controlling-nerves-part-1.md) | Pre-presentation anxiety management |
+| [Controlling Nerves — Part 2](posts/19-controlling-nerves-part-2.md) | Real-time nerve control (box breathing, power poses) |
+| [Creating an Introduction](posts/20-creating-an-introduction.md) | The four-stage opening framework (WIIFT) |
+| [Positive Visualisation](posts/23-positive-visualisation.md) | Mental rehearsal techniques from sports psychology |
+| [Perfecting Imperfection](posts/03-perfecting-imperfection.md) | Authenticity over polish |
+| [May I Have Your Attention](posts/10-may-i-have-your-attention.md) | Attention capture and retention |
+| [Beyond Bullet Points](posts/07-beyond-bullet-points.md) | Visual communication that works |
+| [Writing Backwards](posts/09-writing-backwards.md) | Start with the ending |
+| [The Alphabet of Story](posts/08-alphabet-of-story.md) | Story structure fundamentals |
+| [Audience Profiling](posts/13-audience-profiling.md) | Understanding who you're speaking to |
+| [Congruence](posts/14-congruence.md) | Aligning words, tone, and body language |
+
+---
+
+## About
+
+These materials were developed through decades of real-world presentation experience — from panicked first presentations to Radio 4 interviews, corporate keynotes to training courses.
+
+The approach is grounded in **communication psychology**, not showmanship. The goal isn't to perform — it's to make ideas land.
+
+**Mark Sunner** — Former CTO of MessageLabs (acquired by Symantec), presentation skills trainer, and student of the science of communication.
+
+---
+
+*Recovered from Digital Ape Training (2019-2024). 22 pieces, ~85KB total.*
