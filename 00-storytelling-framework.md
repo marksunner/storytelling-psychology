@@ -1,5 +1,10 @@
-The Storytelling Framework That Turns Presentations Inside Out
-A practical formula for product and service companies who want their message to actually land.
+# The Storytelling Framework That Turns Presentations Inside Out
+
+*A practical formula for product and service companies who want their message to actually land.*
+
+---
+
+---
 
 Most product presentations fail before they begin. Not because the product is weak, or the slides are ugly, or the speaker lacks confidence — but because the story is told from the wrong point of view.
 The default instinct is natural enough: you know your product intimately, so you talk about your product. You describe its features. You explain your architecture. You walk through your roadmap. You are, in effect, reading the label from inside the jar — and wondering why the people on the outside can't quite make out the words.
