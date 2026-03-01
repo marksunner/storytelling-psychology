@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *October 27, 2023*
 
+![Header](../images/language-and-memory.jpg)
+
 ---
 
 Picture the scene: a crisp autumn morning in 18th century Russia. Grigory Potemkin, a shrewd advisor (and secret on/off lover) to Empress Catherine the Great, faces a problem. He needs to convince the notoriously fickle Empress that his newly acquired territory is bountiful when the truth is quite the opposite! So, what does he do? He gets creative (read: deceptive) by ordering his army to build elaborate facades of prosperous villages, hastily erected along the riverbanks as Catherine passes by on her royal barge. And just like that, the legend of the "Potemkin village" is born.
