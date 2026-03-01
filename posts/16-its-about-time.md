@@ -5,6 +5,7 @@
 
 ![Header](../images/its-about-time.png)
 
+
 ---
 
 July 1989, and I'm at the cliff edge of a panic attack as I walk briskly to the large and intimidating classroom 2. I work in the technical support dept of a computer training company - but I'm about to get my big break. 12 students are waiting for their networking course to start - but, unbeknownst to them, their instructor just left in an ambulance. There's no replacement on site and yours truly has been drafted. I'm escorted to the front of the room by the managing director who explains the situation - a replacement is on the way - all I have to do is get things started until he/she arrives. Just one problem. I have never spoken in public before. At 19, I am painfully shy, introverted, and get tense just standing in a checkout queue - this is my worst nightmare made manifest.
