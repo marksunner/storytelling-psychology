@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *December 1, 2022*
 
+![Header](../images/writing-backwards.png)
+
 ---
 
 Have you ever found yourself trying to communicate a complex or dry subject, but struggling to turn it into a compelling story? It can be challenging to engage your audience and effectively communicate your message when the subject matter is technical or difficult to understand.
