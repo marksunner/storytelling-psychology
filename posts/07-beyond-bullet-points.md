@@ -27,6 +27,9 @@ Instead of overwhelming your audience with a jumble of ideas on a single slide, 
 
 But what if you have multiple messages? No problem. First, decide if you really need a slide at all — it might be that verbal descriptions are perfectly adequate. But, if you do require a visual then simply dedicate a separate slide to each distinct message. If this balloons your slide count, don't worry. Remember, the issue is NOT the number of slides, but rather, the amount of information per slide. A presentation with thirty well-designed, focused slides, will be far more effective—and memorable—than ten slides, each crammed with multiple messages.
 
+![One Message Per Slide](../images/beyond-bullets-point1.jpg)
+*Cluttered bullets vs focused messaging*
+
 ### 2. Number of Elements
 
 Strive for simplicity in your design. Depth and detail are the job of the speaker — YOU are the presentation, not the slide deck. Eliminate all unnecessary elements or frills that do not contribute to your main message. Use negative space effectively to give your content room to breathe so your slides do not look or feel crowded. 
