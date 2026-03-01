@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *November 23, 2023*
 
+![Header](../images/beyond-bullet-points.png)
+
 ---
 
 Death by PowerPoint — we've all experienced it — that feeling of zoning out during a punishing slide presentation. Whilst a good slide deck can enhance your explanations, a bad one can introduce unnecessary confusion and/or distraction, severely dampening the impact of your message.
