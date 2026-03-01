@@ -5,6 +5,7 @@
 
 ![Header](../images/creating-an-introduction.png)
 
+
 ---
 
 Whilst every talk or presentation will be unique and have its own distinct flavour, there is a simple four-stage process you can follow to create a simple introduction that will easily create maximum engagement. This process involves starting with a vivid opening to grab the audience's attention, transitioning into the topic at hand, introducing yourself, and clearly stating the aim or purpose of your talk. By following this process, you set the stage for an engaging presentation to follow, whilst effectively 'capturing' the audience.
