@@ -5,6 +5,7 @@
 
 ![Header](../images/neurochemistry-of-presenting.jpg)
 
+
 ---
 
 In this blog post we will explore the neuroscience of presenting and the impact that various brain chemicals have on both speakers and audience members alike. Specifically, we will examine the role of neurotransmitters such as dopamine, serotonin, and cortisol, as well as hormones like testosterone, and how they influence our feelings, thoughts, and behaviours. Understanding these chemicals can help us manage the pressure of presenting and improve the level of engagement we gain from the audience.
