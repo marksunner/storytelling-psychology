@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *November 17, 2023*
 
+![Header](../images/alphabet-of-story.jpg)
+
 ---
 
 Did you ever stop to consider that storytelling is not just about entertainment? That it's a potent tool with the power to reshape our perspectives, stealthily slide past our confirmation biases, and effectively make us open to entirely new ideas? A recent event, featuring singer-songwriter Ed Sheeran, not only demonstrated this, but also drew a fascinating parallel!
