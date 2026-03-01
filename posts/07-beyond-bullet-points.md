@@ -45,6 +45,9 @@ In slide design, contrast serves a function similar to depth of field in photogr
 
 A photograph without depth of field is less engaging because if every detail is equally focused the subject becomes ambiguous. Similarly, a complex slide without contrast fails to guide the audience, consequently their attention may easily scatter. Don't leave it to chance. By employing contrast strategically, you create a "depth of field" for your slides: when important elements are highlighted their significance becomes instantly digestible. Supporting details remain present but unobtrusive. This careful use of contrast guides the audience's attention exactly where you want it, making the content more compelling and memorable.
 
+![Guiding Attention](../images/beyond-bullets-point3.jpg)
+*Contrast directs the eye to what matters*
+
 ### 4. Size vs Eye Tracking
 
 Have you ever navigated your way around an unfamiliar airport? Essential signs like 'exit' or 'gates' are usually the largest, catching your attention instantly. In slide design, the same principle applies—size matters.
