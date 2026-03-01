@@ -5,6 +5,7 @@
 
 ![Header](../images/spotlight-effect.jpg)
 
+
 ---
 
 Have you ever found yourself feeling nervous and self-conscious in a social situation, as if everyone is staring at you and judging your every move? If so, you may have experienced the spotlight effect.
