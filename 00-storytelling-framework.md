@@ -117,4 +117,4 @@ The whiteboard sketch above is the original — because some things are best bor
 
 ---
 
-*© Mark Sunner. Share with attribution.*
+*© 2026 Mark Sunner. This material may be shared with attribution. For commercial use or reproduction, please contact the author.*
