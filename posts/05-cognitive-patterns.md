@@ -4,6 +4,8 @@
 
 *By Mark Sunner — Digital Ape Training*
 
+![Storytelling Framework](../images/storytelling-framework-whiteboard.jpg)
+
 ---
 
 The human mind is remarkably adept at processing and retaining information that aligns with certain cognitive patterns. While these patterns can sometimes lead us astray — as demonstrated in the case of conspiracy theories — they can also be ethically leveraged to create more engaging and memorable presentations. This essay explores how understanding three key cognitive biases can enhance our presentation skills and improve audience engagement.
