@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *October 14, 2022*
 
+![Header](../images/may-i-have-your-attention.jpg)
+
 ---
 
 Hang on — can it be true? Leo Tolstoy's masterpiece *Anna Karenina* opens with *exactly* the same literary device as my 2 year old grandson's favourite lift-the-flap book — *Where's Spot*, by Eric Hill?
