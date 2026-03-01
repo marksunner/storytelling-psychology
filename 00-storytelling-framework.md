@@ -24,7 +24,9 @@ In the framework below, every beat is tagged with its ABT function. This isn't d
 
 The Framework
 The framework divides a presentation into three acts. Each act has a distinct emotional function, and each beat within it advances the narrative using ABT. What follows is both the structure and the reasoning behind it.
- The original whiteboard sketch — battle-scarred but functional.
+![The original whiteboard sketch — battle-scarred but functional.](whiteboard.jpg)
+
+*The original whiteboard sketch — battle-scarred but functional.*
 
 Act One: Beginning (Disruption)
 The purpose of Act One is to destabilise the audience's sense of normality. You're not introducing your product yet — you're not even close. You are establishing a world the audience recognises, then breaking it.
