@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *November 1, 2023*
 
+![Header](../images/audience-profiling.png)
+
 ---
 
 Have you ever sat through a speech or presentation that left you feeling uninterested, unengaged, or even frustrated? Perhaps the speaker seemed to be talking at you, rather than to you, or the topic simply didn't seem relevant or interesting to your life?
