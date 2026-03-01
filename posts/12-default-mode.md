@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *October 10, 2023*
 
+![Header](../images/default-mode.jpg)
+
 ---
 
 Have you ever had an idea pop into your head unexpectedly, only to later realise it was the perfect solution to a problem you were facing? As it turns out, the human brain is wired in a way that makes these "out of the blue" insights deliberately possible. Recent discoveries in neuroscience have clarified the purpose of "the default network," a neural configuration that the brain falls into when we're *not* actively engaged in any form of task or active thought process.
