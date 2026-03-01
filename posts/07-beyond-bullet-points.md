@@ -56,6 +56,9 @@ In essence, size equals importance. The largest object on your slide should be t
 
 Think of it as designing a journey for the viewer's eyes, starting with the largest element, then sequentially guiding their gaze down to smaller ones. This guides your audience through your narrative in an orderly fashion, enhancing comprehension and engagement. By harnessing our instinctive response to size, your slide will naturally become more visually arresting and meaningful.
 
+![Size vs Eye Tracking](../images/beyond-bullets-point4.jpg)
+*Size creates hierarchy — guide the eye to what matters most*
+
 ### 5. The Cocktail Party Effect
 
 Consider this situation: You're at a social gathering, engrossed in conversation with a stranger. Suddenly, you hear your name mentioned from across the room. Your attention splits — even though you're nodding and maintaining eye contact with the person you're speaking to, your mind has wandered off to the other conversation—what are they saying about you? Is it positive or negative? In that moment, you've become a living testament to the fact that humans cannot genuinely multitask — in psychology, this is known as "The Cocktail Party Effect".
