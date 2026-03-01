@@ -21,12 +21,6 @@ This collection explores the psychology behind effective communication — not t
 | [Perfecting Imperfection](posts/03-perfecting-imperfection.md) | Pratfall Effect & Benign Violation Theory |
 | [Cognitive Patterns](posts/05-cognitive-patterns.md) | Pattern recognition, agency detection, proportionality bias |
 
-## Practical Skills
-
-| Post | Topic |
-|------|-------|
-| [Practice Makes Perfect](posts/04-practice-makes-perfect.md) | "Train like the speaker you want to be" |
-
 ---
 
 *Developed by Mark Sunner, drawing on years of crafting product and service presentations. Built on Joseph Campbell's monomyth, Randy Olson's ABT framework, and research in narrative transportation and persuasion psychology.*
