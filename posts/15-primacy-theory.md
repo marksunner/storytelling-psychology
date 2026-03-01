@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *November 3, 2019*
 
+![Header](../images/primacy-theory.jpg)
+
 ---
 
 > *"Have you ever noticed how some supermarkets play psychological tricks? As soon as you go in, you're hit with fresh fruit and veg. And you go in thinking, this is a fresh shop! Everything here is fresh! I will do well here.."*
