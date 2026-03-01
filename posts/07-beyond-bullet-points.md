@@ -67,6 +67,9 @@ In a presentation, overwhelming your audience with hefty paragraphs on a slide w
 
 To prevent this cognitive duel from happening, ensure that your slides complement your speech, rather than compete with it. Minimise on-screen text, limiting it to short phrases or bullet points that serve as signposts guiding your audience through your presentation. Avoid long sentences or paragraphs that compel your audience to read while you are speaking. If a sentence is crucial to your slide, make sure it's succinct, punchy, and directly tied to your spoken narrative.
 
+![The Cocktail Party Effect](../images/beyond-bullets-point5.jpg)
+*Complement your speech, don't compete with it*
+
 ---
 
 ## Conclusion
