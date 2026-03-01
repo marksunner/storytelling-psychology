@@ -5,6 +5,7 @@
 
 ![Header](../images/controlling-nerves-1.jpg)
 
+
 ---
 
 It's common for people to try to hide or downplay their nerves before speaking in front of an audience, especially if they are in a leadership or public-facing role. When we are faced with the prospect of speaking in public, our brains release stress hormones, which can affect our performance and confidence. This is due to the complex chemical responses that occur in the brain when we feel threatened or vulnerable.
