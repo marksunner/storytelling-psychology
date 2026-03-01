@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *October 1, 2022*
 
+![Header](../images/congruence.jpg)
+
 ---
 
 On September 26, 1960, history was made when Vice President Richard Nixon and Senator John F. Kennedy participated in the first-ever nationally televised presidential debate. This landmark event was broadcast live on both television and radio, and it would go on to shape the modern political landscape in ways that no one could have predicted.
