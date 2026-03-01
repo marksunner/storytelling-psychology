@@ -39,4 +39,4 @@ This collection explores the psychology behind effective communication — not t
 
 *Developed by Mark Sunner, drawing on years of crafting product and service presentations. Built on Joseph Campbell's monomyth, Randy Olson's ABT framework, and research in narrative transportation and persuasion psychology.*
 
-**14 pieces of psychology-grounded presentation content** — rescued from Digital Ape Training archives.
+**14 pieces of psychology-grounded presentation content** — from Digital Ape Training archives.
