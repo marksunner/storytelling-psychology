@@ -36,6 +36,9 @@ Strive for simplicity in your design. Depth and detail are the job of the speake
 
 Remember the instructive rule coined by cognitive psychologist George Miller: The average person can only hold about 7 objects in their working memory. If a slide has more than seven elements, it's likely overwhelming your audience.
 
+![Number of Elements](../images/beyond-bullets-point2.jpg)
+*Cluttered complexity vs focused simplicity*
+
 ### 3. Guiding Attention
 
 In slide design, contrast serves a function similar to depth of field in photography—it dictates where your audience's attention should be directed. Just as a photographer uses depth of field to make the subject of the image crisp and clear while the background remains blurry, you can use contrast in your slides to emphasise the important points while leaving the context subtly present, yet not overpowering.
