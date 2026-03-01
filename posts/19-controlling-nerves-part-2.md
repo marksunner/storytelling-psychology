@@ -5,6 +5,7 @@
 
 ![Header](../images/controlling-nerves-2.jpg)
 
+
 ---
 
 In part one of this blog post, we discussed what can be done to help calm nerves prior to delivering a speech or presentation. In this follow-up post, I will propose what can be done to help calm nerves **whilst you are actually speaking in real-time**.
