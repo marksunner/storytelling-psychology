@@ -5,6 +5,7 @@
 
 ![Header](../images/positive-visualisation.jpg)
 
+
 ---
 
 Positive visualisation, or the practice of mentally rehearsing and visualising desired outcomes in advance, has played a significant role in the field of sport psychology. Muhammad Ali, one of the greatest boxers of all time, was an early adopter of this strategy, using it to optimise his performance and disrupt his opponents' mental game.
