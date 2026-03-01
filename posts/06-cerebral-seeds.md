@@ -3,6 +3,8 @@
 *By Mark Sunner — Digital Ape Training*
 *September 13, 2023*
 
+![Header](../images/cerebral-seeds.jpg)
+
 ---
 
 > **What's the difference between a vision and a hallucination?**
