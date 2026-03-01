@@ -26,7 +26,7 @@ Therefore delivers consequence — the response, the resolution, the forward mot
 ABT is what separates a story from a list. Without the "But," you have a series of facts (And… And… And…). Without the "Therefore," you have a problem with no momentum. The full ABT creates a narrative arc that the brain instinctively follows — it generates the forward pull that makes people lean in rather than tune out.
 In the framework below, every beat is tagged with its ABT function. This isn't decoration. It's the mechanism that keeps your audience narratively engaged from the first sentence to the last.
 
-The Framework
+## The Framework
 The framework divides a presentation into three acts. Each act has a distinct emotional function, and each beat within it advances the narrative using ABT. What follows is both the structure and the reasoning behind it.
 ![The original whiteboard sketch — battle-scarred but functional.](whiteboard.jpg)
 
