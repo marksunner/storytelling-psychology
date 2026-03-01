@@ -2,6 +2,8 @@
 
 *By Mark Sunner — Digital Ape Training*
 
+![Header](../images/peak-end-rule.jpg)
+
 ---
 
 Have you ever left a presentation feeling like you barely remember what was said, even though you were paying attention the whole time? If so, you're not alone. It's a common experience, and it turns out there's a scientific reason behind it.
