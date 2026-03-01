@@ -4,6 +4,8 @@
 
 *By Mark Sunner — Digital Ape Training*
 
+![Header](../images/perfecting-imperfection.png)
+
 ---
 
 Many of us will have encountered moments where we've made a mistake or blundered in front of an audience. Whether it's getting tongue-twisted, tripping on your way to the podium, or forgetting an important point in a presentation, these things happen to the best of us — and if it's not happened yet, trust me... it's just a matter of time!
