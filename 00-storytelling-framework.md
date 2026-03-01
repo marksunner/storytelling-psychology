@@ -4,7 +4,6 @@
 
 ---
 
----
 
 Most product presentations fail before they begin. Not because the product is weak, or the slides are ugly, or the speaker lacks confidence — but because the story is told from the wrong point of view.
 The default instinct is natural enough: you know your product intimately, so you talk about your product. You describe its features. You explain your architecture. You walk through your roadmap. You are, in effect, reading the label from inside the jar — and wondering why the people on the outside can't quite make out the words.
@@ -14,7 +13,7 @@ That inversion isn't just a stylistic choice. It's grounded in how human cogniti
 Why Stories Bypass the Filters
 Every audience member walks into your presentation with their cognitive defences raised. This isn't hostility — it's simply how brains work. Decades of research in cognitive psychology have established that when people detect persuasion, they activate what psychologists call reactance: an automatic resistance to being told what to think. The moment your audience recognises a sales pitch, their critical filters engage and everything you say gets stress-tested for manipulation.
 Stories sidestep this entirely.
-When someone encounters a well-structured narrative, they don't analyse it from the outside — they step into it. This is what psychologists call narrative transportation, a phenomenon first rigorously described by Melanie Green and Timothy Brock. When transported into a story, people process information experientially rather than analytically. Their counter-arguing diminishes. They feel the stakes rather than evaluating them. The conclusions they reach feel like their own.
+When someone encounters a well-structured narrative, they don't analyse it from the outside — they step into it. This is what psychologists call [[narrative transportation](posts/01-transportation.md)](posts/01-transportation.md), a phenomenon first rigorously described by Melanie Green and Timothy Brock. When transported into a story, people process information experientially rather than analytically. Their counter-arguing diminishes. They feel the stakes rather than evaluating them. The conclusions they reach feel like their own.
 This is the key insight: a good story doesn't persuade — it creates the conditions under which people persuade themselves. The audience doesn't remember being told something; they remember realising something. And self-generated conclusions are trusted more deeply, retained more durably, and acted upon more readily than any claim delivered from a stage.
 The framework below is engineered to produce exactly this effect. Every structural beat serves a psychological purpose. The three-act shape — Disruption, Realisation, Transformation — mirrors the natural arc of how people process change: something breaks, understanding emerges, a new reality crystallises. The audience lives through it rather than observes it. By the end, the story feels like one they told themselves.
 
@@ -113,5 +112,5 @@ The first is that people don't make decisions analytically — they make them na
 The second is that the best way to describe what's on the outside of the jar is to stop trying to read it from within. Your audience doesn't live inside your product. They live inside their own challenges, their own anxieties, their own ambitions. When you tell the story from where they stand, you're not just being empathetic — you're being intelligible.
 The framework gives you a reliable, repeatable way to do both. Take it, use it, adapt it. And if a compelling story falls out the other end — as it usually does — that's not magic. That's just what happens when you let the hero tell their own story.
 
-This framework was developed by me, drawing on years of crafting and refining product and service presentations. It builds on Joseph Campbell's monomyth, Randy Olson's ABT narrative framework, and research in narrative transportation and persuasion psychology.
+This framework was developed by me, drawing on years of crafting and refining product and service presentations. It builds on Joseph Campbell's monomyth, Randy Olson's ABT narrative framework, and research in [[narrative transportation](posts/01-transportation.md)](posts/01-transportation.md) and persuasion psychology.
 The whiteboard sketch above is the original — because some things are best born on whiteboards.
