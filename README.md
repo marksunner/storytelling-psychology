@@ -83,7 +83,7 @@ Practical techniques for structuring and delivering presentations:
 
 ## About
 
-These materials were developed through decades of real-world presentation experience — from panicked first presentations to Radio 4 interviews, corporate keynotes to training courses.
+These materials were developed through decades of real-world presentation experience — from panicked first presentations to TV & Radio interviews, corporate keynotes to training courses.
 
 The approach is grounded in **communication psychology**, not showmanship. The goal isn't to perform — it's to make ideas land.
 
