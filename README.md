@@ -87,7 +87,7 @@ These materials were developed through decades of real-world presentation experi
 
 The approach is grounded in **communication psychology**, not showmanship. The goal isn't to perform — it's to make ideas land.
 
-**Mark Sunner** — Former CTO of MessageLabs (acquired by Symantec), presentation skills trainer, and student of the science of communication.
+**Mark Sunner** — Former CTO of MessageLabs (acquired by Symantec), speaker, and avid student of the science of communication.
 
 ---
 
