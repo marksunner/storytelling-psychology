@@ -33,7 +33,7 @@ These pieces explore the cognitive science behind effective communication:
 | [Language and Memory](posts/11-language-and-memory.md) | Linguistic techniques that stick |
 | [The Default Mode](posts/12-default-mode.md) | The brain's wandering mind and how to engage it |
 
-### 🧠 Communication Psychology (Reclaimed)
+### 🧠 Communication Psychology
 
 Material exploring the psychology of human connection:
 
@@ -47,7 +47,7 @@ Material exploring the psychology of human connection:
 | [The Duchenne Smile](posts/29-duchenne-smile.md) | Authentic smiles and oxytocin |
 | [Eye Contact](posts/30-eye-contact.md) | Saccadic vision and the window to the soul |
 
-### 🎭 Vocal Mastery (Reclaimed)
+### 🎭 Vocal Mastery
 
 A complete vocal training module:
 
