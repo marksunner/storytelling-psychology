@@ -114,7 +114,3 @@ The framework gives you a reliable, repeatable way to do both. Take it, use it, 
 
 This framework was developed by me, drawing on years of crafting and refining product and service presentations. It builds on Joseph Campbell's monomyth, Randy Olson's ABT narrative framework, and research in [[narrative transportation](posts/01-transportation.md)](posts/01-transportation.md) and persuasion psychology.
 The whiteboard sketch above is the original — because some things are best born on whiteboards.
-
----
-
-*© 2026 Mark Sunner. This material may be shared with attribution. For commercial use or reproduction, please contact the author.*
