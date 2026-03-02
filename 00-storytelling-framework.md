@@ -2,6 +2,8 @@
 
 *A practical formula for product and service companies who want their message to actually land.*
 
+> **This framework synthesizes ideas from Joseph Campbell's monomyth, Randy Olson's ABT narrative structure, and research on narrative transportation by Green & Brock.** I've pressure-tested and refined it over years of building product presentations — the structure is borrowed, the specific application is mine.
+
 ---
 
 
