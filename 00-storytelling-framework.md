@@ -107,7 +107,7 @@ Step 4: Check your ABT pulse. Read through the full narrative. Does each "And" e
 Step 5: Apply the mentor discipline. Go through the entire presentation and highlight every moment where your company appears. If it appears outside Act Two's red boxes, rewrite until it doesn't. This is the hardest discipline in the framework — and the most important.
 
 ## The Label on the Outside of the Jar
-There is a reason this framework works, and it's not because it's clever. It's because it respects two truths about human beings.
+There is a reason this framework works, and it's not because it's clever. It's because it respects two truths about us as human beings.
 The first is that people don't make decisions analytically — they make them narratively. We understand the world through stories, and we trust conclusions we arrive at through stories more than conclusions we're handed. When your audience walks out of a presentation built on this framework, they won't remember being sold to. They'll remember a story — one that felt like their own.
 The second is that the best way to describe what's on the outside of the jar is to stop trying to read it from within. Your audience doesn't live inside your product. They live inside their own challenges, their own anxieties, their own ambitions. When you tell the story from where they stand, you're not just being empathetic — you're being intelligible.
 The framework gives you a reliable, repeatable way to do both. Take it, use it, adapt it. And if a compelling story falls out the other end — as it usually does — that's not magic. That's just what happens when you let the hero tell their own story.
