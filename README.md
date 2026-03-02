@@ -91,4 +91,4 @@ The approach is grounded in **communication psychology**, not showmanship. The g
 
 ---
 
-*37 posts recovered from Digital Ape Training (2019-2024) and collaborative training materials.*
+*37 posts migrated from Digital Ape Training (2019-2024) and collaborative training materials.*
