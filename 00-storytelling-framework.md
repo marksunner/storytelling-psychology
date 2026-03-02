@@ -115,4 +115,4 @@ The second is that the best way to describe what's on the outside of the jar is 
 The framework gives you a reliable, repeatable way to do both. Take it, use it, adapt it. And if a compelling story falls out the other end — as it usually does — that's not magic. That's just what happens when you let the hero tell their own story.
 
 This framework was developed by me, drawing on years of crafting and refining product and service presentations. It builds on Joseph Campbell's monomyth, Randy Olson's ABT narrative framework, and research in [[narrative transportation](posts/01-transportation.md)](posts/01-transportation.md) and persuasion psychology.
-The whiteboard sketch above is the original — because some things are best born on whiteboards.
+The whiteboard sketch above is the original — some things are best born on whiteboards ;-)
