@@ -20,10 +20,10 @@ The framework below is engineered to produce exactly this effect. Every structur
 ## The ABT Engine
 Before walking through the framework, it's worth understanding the engine that drives it: And, But, Therefore — or ABT.
 Popularised by scientist-turned-filmmaker Randy Olson, ABT is the irreducible grammar of narrative. Every compelling story, from pub anecdotes to scientific breakthroughs, follows this pulse:
-And establishes the world — the context, the status quo, the way things are.
-But introduces contradiction — the disruption, the tension, the thing that cannot be ignored.
-Therefore delivers consequence — the response, the resolution, the forward motion.
-ABT is what separates a story from a list. Without the "But," you have a series of facts (And… And… And…). Without the "Therefore," you have a problem with no momentum. The full ABT creates a narrative arc that the brain instinctively follows — it generates the forward pull that makes people lean in rather than tune out.
+**And** establishes the world — the context, the status quo, the way things are.
+**But** introduces contradiction — the disruption, the tension, the thing that cannot be ignored.
+**Therefore** delivers consequence — the response, the resolution, the forward motion.
+ABT is what separates a story from a list. Without the **But**, you have a series of facts (And… And… And…). Without the **Therefore**, you have a problem with no momentum. The full ABT creates a narrative arc that the brain instinctively follows — it generates the forward pull that makes people lean in rather than tune out.
 In the framework below, every beat is tagged with its ABT function. This isn't decoration. It's the mechanism that keeps your audience narratively engaged from the first sentence to the last.
 
 ## The Framework
@@ -37,7 +37,7 @@ The purpose of Act One is to destabilise the audience's sense of normality. You'
 **A** · Ordinary World
 Context and scene setting.
 Open by describing the hero's world — which is to say, your customer's world. This must be recognisable, specific, and grounded. The audience should be nodding before you've finished your second sentence. You're building agreement, establishing shared reality, saying: this is the world as we all know it.
-This is pure "And" territory. You're laying down context. No tension yet.
+This is pure **And** territory. You're laying down context. No tension yet.
 Craft note: Be concrete. "The retail landscape" is abstract. "A category manager staring at a dashboard showing last quarter's numbers" is a scene people can inhabit.
 — Pattern Break #1 —
 The first pattern break is a deliberate disruption to the rhythm you've just established. It signals that the ground is about to shift.
@@ -49,12 +49,12 @@ Legitimate — it can't be dismissed or ignored
 Jarring — it disrupts their sense of how things work
 Alienating — it may carry an element of isolation ("Is this just happening to me?")
 Almost certainly negative — the emotional valence matters
-This is the "But." The status quo is no longer safe. The audience should feel a flicker of discomfort — a recognition that something has gone wrong in a world they inhabit too.
+This is **But**. The status quo is no longer safe. The audience should feel a flicker of discomfort — a recognition that something has gone wrong in a world they inhabit too.
 Craft note: The inciting incident works best when it's something your actual customers have experienced. Real disruptions carry more weight than hypothetical ones.
 **T** · Stakes and Consequences
 The status quo can no longer hold.
 Now you make the implications explicit: What are the consequences of this disruption? What happens if nothing changes? Something must be done — but what?
-This is the "Therefore" of Act One, but it's a therefore that resolves into confusion rather than clarity. The audience should feel the urgency of the problem without yet seeing a solution. Confusion reigns. The hero is stranded.
+This is **Therefore** of Act One, but it's a therefore that resolves into confusion rather than clarity. The audience should feel the urgency of the problem without yet seeing a solution. Confusion reigns. The hero is stranded.
 Craft note: Resist the temptation to rush to the solution. Dwell in the problem. The longer the audience sits with the tension, the more satisfying the resolution will feel.
 
 ## Act Two: Middle (Realisation)
@@ -62,34 +62,34 @@ Act Two is where the mentor appears — and this is the only part of the present
 **B** · Villain Exposed
 The mentor explains: why is this happening?
 The first thing the mentor does is name the villain. Not your competitor — the underlying force that caused the disruption. This could be a market shift, a technological change, an outdated assumption, a systemic inefficiency. The mentor brings clarity to what felt like chaos.
-This is a "But" because it reframes the problem. The audience thought they understood what was happening; now they see a deeper pattern.
+This is **But** because it reframes the problem. The audience thought they understood what was happening; now they see a deeper pattern.
 Craft note: The villain should be something structural, not personal. "Legacy systems can't keep pace with real-time demand signals" is a villain. "Company X is bad" is not.
 **T** · Solution Path Revealed
 The mentor reveals the steps necessary to comprehensively solve the problem.
 The mentor draws on their experience to lay out a path. This is where your product or service enters the narrative — but framed as the mentor's wisdom, not a feature list. You are describing a way through, not a thing to buy.
-This is the "Therefore" — the logical consequence of the diagnosis. This is happening because of X, and therefore the path forward is Y.
+This is **Therefore** — the logical consequence of the diagnosis. This is happening because of X, and therefore the path forward is Y.
 **B** · The Threshold
 The hero has doubts. The mentor reassures.
 The hero hesitates. This beat is psychologically critical because your audience is hesitating too. They're thinking: This sounds good, but what about…? The mentor anticipates these objections, details the obstacles the hero may encounter, and explains why this approach is the best way to dispatch the villain.
-This is another "But" — the internal resistance before commitment. By voicing the doubts your audience is already feeling, you disarm them. Unspoken objections fester. Spoken objections can be addressed.
+This is **But** — the internal resistance before commitment. By voicing the doubts your audience is already feeling, you disarm them. Unspoken objections fester. Spoken objections can be addressed.
 Craft note: Be specific about the obstacles. Vague reassurance ("Don't worry, we've got you covered") is unconvincing. Concrete acknowledgement of real difficulties builds trust.
 **T** · Breakthrough — Hero Has Epiphany
 The hero internalises the mentor's message and starts to believe.
 This is the turning point. The hero sees the path clearly, commits to it, takes action, and the villain is vanquished. Notice that the hero does this — not the mentor. The mentor has already stepped offstage. The victory belongs to the hero.
-This is the climactic "Therefore" of Act Two. The audience should feel the satisfaction of resolution — the problem has been solved, and it was solved by someone like them.
+This is the **Therefore** of Act Two. The audience should feel the satisfaction of resolution — the problem has been solved, and it was solved by someone like them.
 
 ## Act Three: End (Transformation)
 Act Three lifts the camera. The hero's individual victory becomes something larger — a new understanding of their world, their industry, their future. This is where the emotional resonance deepens and the call to action crystallises.
 **A** · New World / Reality Revealed
 The gravity of the new knowledge and abilities starts to sink in.
 The hero's world will never be the same — and this is positive. In retrospect, it seems inevitable. There is a settling quality to this beat: the chaos of Act One and the intensity of Act Two give way to a broader, calmer perspective. The audience should feel the sense of something permanently shifted.
-This is an "And" — an expansive statement of the new reality.
+This is **And** — an expansive statement of the new reality.
 — Pattern Break #2 —
 The second pattern break signals a widening of scope: from the individual hero to the world around them.
 **B** · Inflection Point
 What was true for the hero is true for the whole industry.
 The hero's journey becomes a case study for an industry-wide transformation. The hero is now in a leading position — not because they were lucky, but because they were early to understand. They become a powerful advocate for the mentor's approach.
-This is a "But" in the sense of an unexpected elevation: what seemed like one company's problem and solution turns out to be a harbinger of systemic change. The audience realises they're not just hearing about someone else's journey — they're seeing their own future.
+This is **But** in the sense of an unexpected elevation: what seemed like one company's problem and solution turns out to be a harbinger of systemic change. The audience realises they're not just hearing about someone else's journey — they're seeing their own future.
 **T** · AIM
 The call to action.
 The final beat answers three questions:
@@ -103,7 +103,7 @@ The framework is designed to be practical. Here's how to apply it:
 Step 1: Identify your hero. Who is your customer? Be specific — not "enterprises" but a person with a title, a problem, and a point of view. The more concrete your hero, the more the audience can project themselves into the story.
 Step 2: Identify your villain. What is the structural force, the systemic problem, the fundamental shift that your product or service addresses? The villain is never a competitor. It's the reason the problem exists.
 Step 3: Walk through each beat in order. For each one, write what happens in your hero's world. Feed in your product information, your customer stories, your market data — but always filtered through the hero's experience. If a beat starts to sound like a feature description, rewrite it from the hero's perspective.
-Step 4: Check your ABT pulse. Read through the full narrative. Does each "And" establish context? Does each "But" introduce genuine tension or contradiction? Does each "Therefore" deliver satisfying forward motion? If any beat feels flat, it's probably lost its ABT function.
+Step 4: Check your ABT pulse. Read through the full narrative. Does each **And** establish context? Does each **But** introduce genuine tension or contradiction? Does each **Therefore** deliver satisfying forward motion? If any beat feels flat, it's probably lost its ABT function.
 Step 5: Apply the mentor discipline. Go through the entire presentation and highlight every moment where your company appears. If it appears outside Act Two's red boxes, rewrite until it doesn't. This is the hardest discipline in the framework — and the most important.
 
 ## The Label on the Outside of the Jar
