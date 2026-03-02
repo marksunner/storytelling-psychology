@@ -33,6 +33,34 @@ These pieces explore the cognitive science behind effective communication:
 | [Language and Memory](posts/11-language-and-memory.md) | Linguistic techniques that stick |
 | [The Default Mode](posts/12-default-mode.md) | The brain's wandering mind and how to engage it |
 
+### 🧠 Communication Psychology (Reclaimed)
+
+Material exploring the psychology of human connection:
+
+| Post | Topic |
+|------|-------|
+| [First Impressions](posts/24-first-impressions.md) | The Dame Edna quadrant — what we reveal instantly |
+| [Thinking and Feeling](posts/25-thinking-and-feeling.md) | Facts vs emotion in persuasion |
+| [Mirror Neurons](posts/26-mirror-neurons.md) | The neuroscience of empathy and connection |
+| [Mirror Neurons — Part 2](posts/27-mirror-neurons-part-2.md) | Bidirectional influence |
+| [Non-Verbal Communication](posts/28-non-verbal-communication.md) | Beyond the Mehrabian myth |
+| [The Duchenne Smile](posts/29-duchenne-smile.md) | Authentic smiles and oxytocin |
+| [Eye Contact](posts/30-eye-contact.md) | Saccadic vision and the window to the soul |
+
+### 🎭 Vocal Mastery (Reclaimed)
+
+A complete vocal training module:
+
+| Post | Topic |
+|------|-------|
+| [It's Not What You Say...](posts/32-vocal-delivery.md) | The power of tonality |
+| [Vocal Variety — Pitch](posts/33-vocal-pitch.md) | The seesaw of highs and lows 🎢 |
+| [Vocal Variety — Pace](posts/34-vocal-pace.md) | The BBC 150 wpm standard 🎼 |
+| [Vocal Variety — Intonation](posts/35-vocal-intonation.md) | How emphasis changes meaning 🎯 |
+| [Active Voice and Tense](posts/36-active-voice.md) | Present tense, active voice 🎭 |
+| [Treading the Boards](posts/31-treading-the-boards.md) | Method acting for presenters |
+| [PREP Framework](posts/37-prep-framework.md) | Impromptu speaking — tack like a sailboat ⛵ |
+
 ### 🎯 Presentation Craft
 
 Practical techniques for structuring and delivering presentations:
@@ -63,4 +91,4 @@ The approach is grounded in **communication psychology**, not showmanship. The g
 
 ---
 
-*Recovered from Digital Ape Training (2019-2024). 22 pieces, ~85KB total.*
+*37 posts recovered from Digital Ape Training (2019-2024) and collaborative training materials.*
