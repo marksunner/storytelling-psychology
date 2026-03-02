@@ -32,7 +32,7 @@ The framework divides a presentation into three acts. Each act has a distinct em
 
 *The original whiteboard sketch — battle-scarred but functional.*
 
-Act One: Beginning (Disruption)
+## Act One: Beginning (Disruption)
 The purpose of Act One is to destabilise the audience's sense of normality. You're not introducing your product yet — you're not even close. You are establishing a world the audience recognises, then breaking it.
 A · Ordinary World
 Context and scene setting.
@@ -57,7 +57,7 @@ Now you make the implications explicit: What are the consequences of this disrup
 This is the "Therefore" of Act One, but it's a therefore that resolves into confusion rather than clarity. The audience should feel the urgency of the problem without yet seeing a solution. Confusion reigns. The hero is stranded.
 Craft note: Resist the temptation to rush to the solution. Dwell in the problem. The longer the audience sits with the tension, the more satisfying the resolution will feel.
 
-Act Two: Middle (Realisation)
+## Act Two: Middle (Realisation)
 Act Two is where the mentor appears — and this is the only part of the presentation where your company is overtly visible. The red boxes on the whiteboard sketch mark these moments. Note how contained they are. The mentor doesn't monologue. They diagnose, prescribe, reassure, and then step back so the hero can act.
 B · Villain Exposed
 The mentor explains: why is this happening?
@@ -78,7 +78,7 @@ The hero internalises the mentor's message and starts to believe.
 This is the turning point. The hero sees the path clearly, commits to it, takes action, and the villain is vanquished. Notice that the hero does this — not the mentor. The mentor has already stepped offstage. The victory belongs to the hero.
 This is the climactic "Therefore" of Act Two. The audience should feel the satisfaction of resolution — the problem has been solved, and it was solved by someone like them.
 
-Act Three: End (Transformation)
+## Act Three: End (Transformation)
 Act Three lifts the camera. The hero's individual victory becomes something larger — a new understanding of their world, their industry, their future. This is where the emotional resonance deepens and the call to action crystallises.
 A · New World / Reality Revealed
 The gravity of the new knowledge and abilities starts to sink in.
@@ -106,7 +106,7 @@ Step 3: Walk through each beat in order. For each one, write what happens in you
 Step 4: Check your ABT pulse. Read through the full narrative. Does each "And" establish context? Does each "But" introduce genuine tension or contradiction? Does each "Therefore" deliver satisfying forward motion? If any beat feels flat, it's probably lost its ABT function.
 Step 5: Apply the mentor discipline. Go through the entire presentation and highlight every moment where your company appears. If it appears outside Act Two's red boxes, rewrite until it doesn't. This is the hardest discipline in the framework — and the most important.
 
-The Label on the Outside of the Jar
+## The Label on the Outside of the Jar
 There is a reason this framework works, and it's not because it's clever. It's because it respects two truths about human beings.
 The first is that people don't make decisions analytically — they make them narratively. We understand the world through stories, and we trust conclusions we arrive at through stories more than conclusions we're handed. When your audience walks out of a presentation built on this framework, they won't remember being sold to. They'll remember a story — one that felt like their own.
 The second is that the best way to describe what's on the outside of the jar is to stop trying to read it from within. Your audience doesn't live inside your product. They live inside their own challenges, their own anxieties, their own ambitions. When you tell the story from where they stand, you're not just being empathetic — you're being intelligible.
