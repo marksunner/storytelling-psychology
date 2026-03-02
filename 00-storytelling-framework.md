@@ -98,7 +98,7 @@ What is the roadmap for the future? — What does the path ahead look like?
 What is the takeaway message? — What is the single idea they should carry with them?
 This is the final "Therefore." The entire narrative has been building to this: a clear, actionable, memorable conclusion that the audience feels they arrived at themselves.
 
-How to Use This Framework
+## How to Use This Framework
 The framework is designed to be practical. Here's how to apply it:
 Step 1: Identify your hero. Who is your customer? Be specific — not "enterprises" but a person with a title, a problem, and a point of view. The more concrete your hero, the more the audience can project themselves into the story.
 Step 2: Identify your villain. What is the structural force, the systemic problem, the fundamental shift that your product or service addresses? The villain is never a competitor. It's the reason the problem exists.
