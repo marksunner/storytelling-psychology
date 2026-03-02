@@ -17,7 +17,7 @@ When someone encounters a well-structured narrative, they don't analyse it from 
 This is the key insight: a good story doesn't persuade — it creates the conditions under which people persuade themselves. The audience doesn't remember being told something; they remember realising something. And self-generated conclusions are trusted more deeply, retained more durably, and acted upon more readily than any claim delivered from a stage.
 The framework below is engineered to produce exactly this effect. Every structural beat serves a psychological purpose. The three-act shape — Disruption, Realisation, Transformation — mirrors the natural arc of how people process change: something breaks, understanding emerges, a new reality crystallises. The audience lives through it rather than observes it. By the end, the story feels like one they told themselves.
 
-The ABT Engine
+## The ABT Engine
 Before walking through the framework, it's worth understanding the engine that drives it: And, But, Therefore — or ABT.
 Popularised by scientist-turned-filmmaker Randy Olson, ABT is the irreducible grammar of narrative. Every compelling story, from pub anecdotes to scientific breakthroughs, follows this pulse:
 And establishes the world — the context, the status quo, the way things are.
