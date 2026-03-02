@@ -34,14 +34,14 @@ The framework divides a presentation into three acts. Each act has a distinct em
 
 ## Act One: Beginning (Disruption)
 The purpose of Act One is to destabilise the audience's sense of normality. You're not introducing your product yet — you're not even close. You are establishing a world the audience recognises, then breaking it.
-A · Ordinary World
+**A** · Ordinary World
 Context and scene setting.
 Open by describing the hero's world — which is to say, your customer's world. This must be recognisable, specific, and grounded. The audience should be nodding before you've finished your second sentence. You're building agreement, establishing shared reality, saying: this is the world as we all know it.
 This is pure "And" territory. You're laying down context. No tension yet.
 Craft note: Be concrete. "The retail landscape" is abstract. "A category manager staring at a dashboard showing last quarter's numbers" is a scene people can inhabit.
 — Pattern Break #1 —
 The first pattern break is a deliberate disruption to the rhythm you've just established. It signals that the ground is about to shift.
-B · Inciting Incident
+**B** · Inciting Incident
 The ordinary world shatters.
 Something happens. An event, a shift, a revelation — something the hero recognises as being:
 Unexpected — they didn't see it coming
@@ -51,7 +51,7 @@ Alienating — it may carry an element of isolation ("Is this just happening to 
 Almost certainly negative — the emotional valence matters
 This is the "But." The status quo is no longer safe. The audience should feel a flicker of discomfort — a recognition that something has gone wrong in a world they inhabit too.
 Craft note: The inciting incident works best when it's something your actual customers have experienced. Real disruptions carry more weight than hypothetical ones.
-T · Stakes and Consequences
+**T** · Stakes and Consequences
 The status quo can no longer hold.
 Now you make the implications explicit: What are the consequences of this disruption? What happens if nothing changes? Something must be done — but what?
 This is the "Therefore" of Act One, but it's a therefore that resolves into confusion rather than clarity. The audience should feel the urgency of the problem without yet seeing a solution. Confusion reigns. The hero is stranded.
@@ -59,38 +59,38 @@ Craft note: Resist the temptation to rush to the solution. Dwell in the problem.
 
 ## Act Two: Middle (Realisation)
 Act Two is where the mentor appears — and this is the only part of the presentation where your company is overtly visible. The red boxes on the whiteboard sketch mark these moments. Note how contained they are. The mentor doesn't monologue. They diagnose, prescribe, reassure, and then step back so the hero can act.
-B · Villain Exposed
+**B** · Villain Exposed
 The mentor explains: why is this happening?
 The first thing the mentor does is name the villain. Not your competitor — the underlying force that caused the disruption. This could be a market shift, a technological change, an outdated assumption, a systemic inefficiency. The mentor brings clarity to what felt like chaos.
 This is a "But" because it reframes the problem. The audience thought they understood what was happening; now they see a deeper pattern.
 Craft note: The villain should be something structural, not personal. "Legacy systems can't keep pace with real-time demand signals" is a villain. "Company X is bad" is not.
-T · Solution Path Revealed
+**T** · Solution Path Revealed
 The mentor reveals the steps necessary to comprehensively solve the problem.
 The mentor draws on their experience to lay out a path. This is where your product or service enters the narrative — but framed as the mentor's wisdom, not a feature list. You are describing a way through, not a thing to buy.
 This is the "Therefore" — the logical consequence of the diagnosis. This is happening because of X, and therefore the path forward is Y.
-B · The Threshold
+**B** · The Threshold
 The hero has doubts. The mentor reassures.
 The hero hesitates. This beat is psychologically critical because your audience is hesitating too. They're thinking: This sounds good, but what about…? The mentor anticipates these objections, details the obstacles the hero may encounter, and explains why this approach is the best way to dispatch the villain.
 This is another "But" — the internal resistance before commitment. By voicing the doubts your audience is already feeling, you disarm them. Unspoken objections fester. Spoken objections can be addressed.
 Craft note: Be specific about the obstacles. Vague reassurance ("Don't worry, we've got you covered") is unconvincing. Concrete acknowledgement of real difficulties builds trust.
-T · Breakthrough — Hero Has Epiphany
+**T** · Breakthrough — Hero Has Epiphany
 The hero internalises the mentor's message and starts to believe.
 This is the turning point. The hero sees the path clearly, commits to it, takes action, and the villain is vanquished. Notice that the hero does this — not the mentor. The mentor has already stepped offstage. The victory belongs to the hero.
 This is the climactic "Therefore" of Act Two. The audience should feel the satisfaction of resolution — the problem has been solved, and it was solved by someone like them.
 
 ## Act Three: End (Transformation)
 Act Three lifts the camera. The hero's individual victory becomes something larger — a new understanding of their world, their industry, their future. This is where the emotional resonance deepens and the call to action crystallises.
-A · New World / Reality Revealed
+**A** · New World / Reality Revealed
 The gravity of the new knowledge and abilities starts to sink in.
 The hero's world will never be the same — and this is positive. In retrospect, it seems inevitable. There is a settling quality to this beat: the chaos of Act One and the intensity of Act Two give way to a broader, calmer perspective. The audience should feel the sense of something permanently shifted.
 This is an "And" — an expansive statement of the new reality.
 — Pattern Break #2 —
 The second pattern break signals a widening of scope: from the individual hero to the world around them.
-B · Inflection Point
+**B** · Inflection Point
 What was true for the hero is true for the whole industry.
 The hero's journey becomes a case study for an industry-wide transformation. The hero is now in a leading position — not because they were lucky, but because they were early to understand. They become a powerful advocate for the mentor's approach.
 This is a "But" in the sense of an unexpected elevation: what seemed like one company's problem and solution turns out to be a harbinger of systemic change. The audience realises they're not just hearing about someone else's journey — they're seeing their own future.
-T · AIM
+**T** · AIM
 The call to action.
 The final beat answers three questions:
 What is the call to action? — What should the audience do next?
