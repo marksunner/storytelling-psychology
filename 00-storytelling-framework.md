@@ -8,7 +8,7 @@
 
 
 Most product presentations fail before they begin. Not because the product is weak, or the slides are ugly, or the speaker lacks confidence — but because the story is told from the wrong point of view.
-The default instinct is natural enough: you know your product intimately, so you talk about your product. You describe its features. You explain your architecture. You walk through your roadmap. You are, in effect, reading the label from inside the jar — and wondering why the people on the outside can't quite make out the words.
+The default instinct is natural enough: you know your product intimately, so you talk about your product. You describe its features. You explain your architecture. You walk through your roadmap. But, by doing this, you are in effect reading the label from inside the jar — and wondering why the people on the outside can't quite make out the words.
 This framework exists to fix that. It's a storytelling formula I've arrived at over years of building, refining, and pressure-testing product and service presentations. It maps a business narrative onto the deep structure of story itself — the hero's journey — but with a critical inversion: the customer is the hero, and you are the mentor. Your company never takes centre stage. You appear just long enough to illuminate the path, then step aside so the hero can triumph.
 That inversion isn't just a stylistic choice. It's grounded in how human cognition actually works, and understanding the psychology is what transforms this from a presentation template into something considerably more powerful.
 
