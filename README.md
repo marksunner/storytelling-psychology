@@ -8,7 +8,12 @@
 
 ## The Storytelling Framework
 
-**[The Storytelling Framework](00-storytelling-framework.md)** — The complete methodology: Setup → Conflict → Resolution, with techniques for openings, endings, and making complex ideas land.
+Two essays. Same machinery. Different sides of the fence.
+
+| | |
+|---|---|
+| 🎯 **[The Storytelling Framework](00-storytelling-framework.md)** | The craft — how to make ideas land using narrative structure, audience psychology, and the hero's journey. The gamekeeper. |
+| 🌑 **[The Story Doesn't Care If It's True](01-the-story-doesnt-care.md)** | The warning — the same framework powers propaganda, and the machine was never fitted with a truth gauge. The poacher. |
 
 ![Storytelling Framework Whiteboard](images/storytelling-framework-whiteboard.jpg)
 
