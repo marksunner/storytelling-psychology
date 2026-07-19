@@ -14,7 +14,7 @@ Three essays. Same machinery. Different sides of the fence.
 |---|---|
 | 😇 **[The Storytelling Framework](00-storytelling-framework.md)** | The craft - how to make ideas land using narrative structure, audience psychology, and the hero's journey. The gamekeeper. |
 | 👿 **[The Story Doesn't Care If It's True](01-the-story-doesnt-care.md)** | The warning - the same framework powers propaganda, and the machine was never fitted with a truth gauge. The poacher. |
-| 🕵🏻‍♂️ **[Where Are the Receipts?](02-where-are-the-receipts.md)** | The equipment - a compact mental toolkit for distinguishing evidence from the shape of evidence. The auditor. |
+| 🕵🏻‍♂️ **[Show me the Receipts](02-where-are-the-receipts.md)** | The equipment - a compact mental toolkit for distinguishing evidence from the shape of evidence. The auditor. |
 
 ![Storytelling Framework Whiteboard](images/storytelling-framework-whiteboard.jpg)
 
