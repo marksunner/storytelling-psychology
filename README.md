@@ -41,7 +41,7 @@ These pieces explore the cognitive science behind effective communication:
 | [Transportation](posts/01-transportation.md) | How stories literally transport us neurologically |
 | [The Peak-End Rule](posts/02-peak-end-rule.md) | Why endings and emotional peaks matter most |
 | [Why Stories Matter](posts/17-why-stories-matter.md) | Narrative as the brain's default sense-making device |
-| [It's About Time](posts/16-its-about-time.md) | Time perception and the neuroscience of stress ⭐ *Personal origin story* |
+| [It's About Time](posts/16-its-about-time.md) | Time perception and the neuroscience of stress |
 | [Primacy Theory](posts/15-primacy-theory.md) | The psychology of first impressions |
 | [The Spotlight Effect](posts/22-spotlight-effect.md) | Managing the illusion that everyone is watching |
 | [The Neurochemistry of Presenting](posts/21-neurochemistry-of-presenting.md) | Dopamine, serotonin, cortisol, and testosterone |
