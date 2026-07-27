@@ -90,8 +90,8 @@ And one last thing.
 
 This piece arrived in a voice that probably feels trustworthy right now. Warm. Conversational. On your side. That is precisely how an egg gets accepted. I handed you a metaphor, made it vivid, gave you a line to remember and offered you an instrument. Every one of those moves could be used to place something in your nest.
 
-So don't accept this simply because it was well told. But don't reject it simply because it made you uneasy either. Check it like a stranger. Ask whose interest it serves, how it reached you, and what it would have you feed. Then decide whether it deserves to stay.
+So don't accept this because feels like a satisfying story. But don't reject it simply because it made you uneasy either. Check it like a stranger. Ask *whose interest it serves*, how it reached you, and what it would have *you* feed. THEN decide whether it deserves to stay.
 
-The beetle cannot question the bottle. The bird cannot reconsider once the chick has hatched. We can.
+The beetle cannot question the bottle. The bird cannot reconsider once the chick has hatched. WE CAN.
 
 That is our advantage. The nest is still *ours*.
