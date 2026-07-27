@@ -94,4 +94,4 @@ So don't accept this simply because it was well told. But don't reject it simply
 
 The beetle cannot question the bottle. The bird cannot reconsider once the chick has hatched. We can.
 
-> **That is our advantage. The nest is still ours.**
+That is our advantage. The nest is still ours.
