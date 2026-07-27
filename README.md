@@ -42,7 +42,7 @@ These pieces explore the cognitive science behind effective communication:
 | [The Peak-End Rule](posts/02-peak-end-rule.md) | Why endings and emotional peaks matter most |
 | [Why Stories Matter](posts/17-why-stories-matter.md) | Narrative as the brain's default sense-making device |
 | [It's About Time](posts/16-its-about-time.md) | Time perception and the neuroscience of stress ⭐ *Personal origin story* |
-| [Primacy Theory](posts/15-primacy-theory.md) | The psychology of first impressions (with Eddie Izzard!) ⭐ |
+| [Primacy Theory](posts/15-primacy-theory.md) | The psychology of first impressions |
 | [The Spotlight Effect](posts/22-spotlight-effect.md) | Managing the illusion that everyone is watching |
 | [The Neurochemistry of Presenting](posts/21-neurochemistry-of-presenting.md) | Dopamine, serotonin, cortisol, and testosterone |
 | [Cerebral Seeds](posts/06-cerebral-seeds.md) | Memory consolidation and idea uptake |
