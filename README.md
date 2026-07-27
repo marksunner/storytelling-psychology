@@ -20,6 +20,16 @@ Three essays. Same machinery. Different sides of the fence.
 
 ---
 
+## Miscellaneous Essays
+
+*Essays that don't fit neatly into the main framework — tangents, explorations, and one-offs.*
+
+| Post | Topic |
+|------|-------|
+| *Coming soon* | — |
+
+---
+
 ## The Archive
 
 ### 📚 Psychology Deep Dives
