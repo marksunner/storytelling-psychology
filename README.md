@@ -22,7 +22,7 @@ Three essays. Same machinery. Different sides of the fence.
 
 ## Miscellaneous Essays
 
-*Essays that don't fit neatly into the main framework — tangents, explorations, and one-offs.*
+*Essays that don't fit anywhere else — tangents, explorations, and one-offs.*
 
 | Post | Topic |
 |------|-------|
