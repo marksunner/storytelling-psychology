@@ -26,7 +26,7 @@ Three essays. Same machinery. Different sides of the fence.
 
 | Post | Topic |
 |------|-------|
-| *Coming soon* | — |
+| [The Cuckoo's Egg](posts/cuckoos-egg.md) | Belief, provenance, and the supernormal stimulus — how to check what's in your nest |
 
 ---
 
