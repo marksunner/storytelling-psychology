@@ -84,7 +84,7 @@ So the move isn't to build a better detector for fakes. The move is to know the 
 
 ---
 
-And one last thing.
+And one last thing..
 
 This piece arrived in a voice that probably feels trustworthy right now. Warm. Conversational. On your side. That is precisely how an egg gets accepted. I handed you a metaphor, made it vivid, gave you a line to remember and offered you an instrument. Every one of those moves could be used to place something in your nest.
 
