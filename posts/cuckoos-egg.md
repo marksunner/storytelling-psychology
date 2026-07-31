@@ -1,7 +1,6 @@
 # The Cuckoo's Egg
 
 
----
 
 In September 1981, two biologists conducting fieldwork near Dongara, on the coast of Western Australia, came across something odd beside a dirt road: a glossy, orange-brown male jewel beetle, the size of a thumbnail, mounted on a discarded stubby beer bottle.
 
