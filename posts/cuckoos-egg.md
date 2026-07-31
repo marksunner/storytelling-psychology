@@ -1,6 +1,6 @@
 # The Cuckoo's Egg
 
-*A meditation on belief, provenance, and what happens when something gets into your nest before you know it's there.*
+*Thoughts on provenance, and what happens when something gets into your nest before you know it's there..*
 
 ---
 
