@@ -15,17 +15,17 @@ That inversion isn't just a stylistic choice. It's grounded in how human cogniti
 ## Why Stories Bypass Filters
 Every audience member walks into your presentation with their cognitive defences raised. This isn't hostility, it's simply how brains work. Decades of research in cognitive psychology have established that when people detect persuasion, they activate what psychologists call reactance: an automatic resistance to being told what to think. The moment your audience recognises a sales pitch, their critical filters engage and everything you say gets stress-tested for manipulation.
 Stories sidestep this entirely.
-When someone encounters a well-structured narrative, they don't analyse it from the outside — they step into it. This is what psychologists call [[narrative transportation](posts/01-transportation.md)](posts/01-transportation.md), a phenomenon first rigorously described by Melanie Green and Timothy Brock. When transported into a story, people process information experientially rather than analytically. Their counter-arguing diminishes. They feel the stakes rather than evaluating them. The conclusions they reach feel like their own.
+When someone encounters a well-structured narrative, they don't analyse it from the outside, they step into it. This is what psychologists call [[narrative transportation](posts/01-transportation.md)](posts/01-transportation.md), a phenomenon first rigorously described by Melanie Green and Timothy Brock. When transported into a story, people process information experientially rather than analytically. Their counter-arguing diminishes. They feel the stakes rather than evaluating them. The conclusions they reach feel like their own.
 This is the key insight: a good story doesn't persuade, it creates the conditions under which people persuade themselves. The audience doesn't remember being told something; they remember realising something. And self-generated conclusions are trusted more deeply, retained more durably, and acted upon more readily than any claim delivered from a stage.
 The framework below is engineered to produce exactly this effect. Every structural beat serves a psychological purpose. The three-act shape — Disruption, Realisation, Transformation, mirrors the natural arc of how people process change: something breaks, understanding emerges, a new reality crystallises. The audience lives through it rather than observes it. By the end, the story feels like one they told themselves.
 
 ## The ABT Engine
-Before walking through the framework, it's worth understanding the engine that drives it: And, But, Therefore — or ABT.
+Before walking through the framework, it's worth understanding the engine that drives it: And, But, Therefore, or ABT.
 Popularised by scientist-turned-filmmaker Randy Olson, ABT is the irreducible grammar of narrative. Every compelling story, from pub anecdotes to scientific breakthroughs, follows this pulse:
 **And** establishes the world, the context, the status quo, the way things are.
 **But** introduces contradiction, the disruption, the tension, the thing that cannot be ignored.
 **Therefore** delivers consequence, the response, the resolution, the forward motion.
-ABT is what separates a story from a list. Without the **But**, you have a series of facts (And… And… And…). Without the **Therefore**, you have a problem with no momentum. The full ABT creates a narrative arc that the brain instinctively follows — it generates the forward pull that makes people lean in rather than tune out.
+ABT is what separates a story from a list. Without the **But**, you have a series of facts (And… And… And…). Without the **Therefore**, you have a problem with no momentum. The full ABT creates a narrative arc that the brain instinctively follows, it generates the forward pull that makes people lean in rather than tune out.
 In the framework below, every beat is tagged with its ABT function. This isn't decoration. It's the mechanism that keeps your audience narratively engaged from the first sentence to the last.
 
 ## The Framework
@@ -51,7 +51,7 @@ Legitimate — it can't be dismissed or ignored
 Jarring — it disrupts their sense of how things work
 Alienating — it may carry an element of isolation ("Is this just happening to me?")
 Almost certainly negative — the emotional valence matters
-This is **But**. The status quo is no longer safe. The audience should feel a flicker of discomfort — a recognition that something has gone wrong in a world they inhabit too.
+This is **But**. The status quo is no longer safe. The audience should feel a flicker of discomfort, a recognition that something has gone wrong in a world they inhabit too.
 Craft note: The inciting incident works best when it's something your actual customers have experienced. Real disruptions carry more weight than hypothetical ones.
 **T** · Stakes and Consequences
 The status quo can no longer hold.
@@ -63,7 +63,7 @@ Craft note: Resist the temptation to rush to the solution. Dwell in the problem.
 Act Two is where the mentor appears, and this is the only part of the presentation where your company is overtly visible. The red boxes on the whiteboard sketch mark these moments. Note how contained they are. The mentor doesn't monologue. They diagnose, prescribe, reassure, and then step back so the hero can act.
 **B** · Villain Exposed
 The mentor explains: why is this happening?
-The first thing the mentor does is name the villain. Not your competitor — the underlying force that caused the disruption. This could be a market shift, a technological change, an outdated assumption, a systemic inefficiency. The mentor brings clarity to what felt like chaos.
+The first thing the mentor does is name the villain. Not your competitor, the underlying force that caused the disruption. This could be a market shift, a technological change, an outdated assumption, a systemic inefficiency. The mentor brings clarity to what felt like chaos.
 This is **But** because it reframes the problem. The audience thought they understood what was happening; now they see a deeper pattern.
 Craft note: The villain should be something structural, not personal. "Legacy systems can't keep pace with real-time demand signals" is a villain. "Company X is bad" is not.
 **T** · Solution Path Revealed
